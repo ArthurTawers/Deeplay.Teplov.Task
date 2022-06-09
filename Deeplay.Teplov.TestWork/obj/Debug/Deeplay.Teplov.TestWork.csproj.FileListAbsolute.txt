@@ -1,0 +1,12 @@
+C:\Users\artur\Desktop\Новая папка\c#\Deeplay.Teplov.TestWork\Deeplay.Teplov.TestWork\bin\Debug\Deeplay.Teplov.TestWork.exe.config
+C:\Users\artur\Desktop\Новая папка\c#\Deeplay.Teplov.TestWork\Deeplay.Teplov.TestWork\bin\Debug\Deeplay.Teplov.TestWork.exe
+C:\Users\artur\Desktop\Новая папка\c#\Deeplay.Teplov.TestWork\Deeplay.Teplov.TestWork\bin\Debug\Deeplay.Teplov.TestWork.pdb
+C:\Users\artur\Desktop\Новая папка\c#\Deeplay.Teplov.TestWork\Deeplay.Teplov.TestWork\obj\Debug\Deeplay.Teplov.TestWork.csproj.AssemblyReference.cache
+C:\Users\artur\Desktop\Новая папка\c#\Deeplay.Teplov.TestWork\Deeplay.Teplov.TestWork\obj\Debug\Deeplay.Teplov.TestWork.csproj.SuggestedBindingRedirects.cache
+C:\Users\artur\Desktop\Новая папка\c#\Deeplay.Teplov.TestWork\Deeplay.Teplov.TestWork\obj\Debug\Deeplay.Teplov.TestWork.Properties.Resources.resources
+C:\Users\artur\Desktop\Новая папка\c#\Deeplay.Teplov.TestWork\Deeplay.Teplov.TestWork\obj\Debug\Deeplay.Teplov.TestWork.View.MainForm.resources
+C:\Users\artur\Desktop\Новая папка\c#\Deeplay.Teplov.TestWork\Deeplay.Teplov.TestWork\obj\Debug\Deeplay.Teplov.TestWork.csproj.GenerateResource.cache
+C:\Users\artur\Desktop\Новая папка\c#\Deeplay.Teplov.TestWork\Deeplay.Teplov.TestWork\obj\Debug\Deeplay.Teplov.TestWork.csproj.CoreCompileInputs.cache
+C:\Users\artur\Desktop\Новая папка\c#\Deeplay.Teplov.TestWork\Deeplay.Teplov.TestWork\obj\Debug\Deeplay.Teplov.TestWork.exe
+C:\Users\artur\Desktop\Новая папка\c#\Deeplay.Teplov.TestWork\Deeplay.Teplov.TestWork\obj\Debug\Deeplay.Teplov.TestWork.pdb
+C:\Users\artur\Desktop\Новая папка\c#\Deeplay.Teplov.TestWork\Deeplay.Teplov.TestWork\obj\Debug\Deeplay.Teplov.TestWork.View.AddForm.resources
